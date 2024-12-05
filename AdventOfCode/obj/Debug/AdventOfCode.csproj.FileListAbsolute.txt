@@ -1,0 +1,6 @@
+C:\Users\mkeilwert\Desktop\Advent2024\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.pdb
+C:\Users\mkeilwert\Desktop\Advent2024\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csproj.AssemblyReference.cache
+C:\Users\mkeilwert\Desktop\Advent2024\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csproj.CoreCompileInputs.cache
+C:\Users\mkeilwert\Desktop\Advent2024\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.pdb
+C:\Users\mkeilwert\Desktop\Advent2024\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe
+C:\Users\mkeilwert\Desktop\Advent2024\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.exe
